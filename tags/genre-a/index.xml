@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genre A on Kage</title>
+    <link>https://kage.xyz/tags/genre-a/</link>
+    <description>Recent content in Genre A on Kage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kage.xyz/tags/genre-a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cartoon 6</title>
+      <link>https://kage.xyz/webcomics/webcomic_006/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartoon 5</title>
+      <link>https://kage.xyz/webcomics/webcomic_005/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ut iaculis</title>
+      <link>https://kage.xyz/short_stories/short_005/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/short_stories/short_005/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac tincidunt lectus. Etiam eleifend tortor mauris, eget eleifend urna efficitur eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Sed facilisis pretium ipsum, id porttitor metus commodo sed. Aliquam sed magna commodo odio luctus tincidunt. Donec convallis ex in felis aliquam fermentum. Maecenas et ligula tellus. Nulla ut condimentum nunc. Vestibulum malesuada porta libero, id lobortis massa auctor bibendum.</description>
+    </item>
+    
+    <item>
+      <title>Cartoon 4</title>
+      <link>https://kage.xyz/webcomics/webcomic_004/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartoon 3</title>
+      <link>https://kage.xyz/webcomics/webcomic_003/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartoon 2</title>
+      <link>https://kage.xyz/webcomics/webcomic_002/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartoon 1</title>
+      <link>https://kage.xyz/webcomics/webcomic_001/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/webcomics/webcomic_001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>https://kage.xyz/short_stories/short_001/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/short_stories/short_001/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac tincidunt lectus. Etiam eleifend tortor mauris, eget eleifend urna efficitur eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Sed facilisis pretium ipsum, id porttitor metus commodo sed. Aliquam sed magna commodo odio luctus tincidunt. Donec convallis ex in felis aliquam fermentum. Maecenas et ligula tellus. Nulla ut condimentum nunc. Vestibulum malesuada porta libero, id lobortis massa auctor bibendum.</description>
+    </item>
+    
+  </channel>
+</rss>

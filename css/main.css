@@ -1,0 +1,179 @@
+:root {
+    --title_color: #31708E;
+    --text_color: #2C3531;
+    --site_background_color: #F7f9fb;
+    --emphasis_color: #687864;
+    --serif_font: 'Cormorant', serif;
+    --sans_serif_font: 'Montserrat', sans-serif;
+}
+
+body {
+    display: grid;
+    grid-template-areas:
+      "header article"
+      "nav article"
+      "nav comments"
+      "nav footer";
+    grid-template-rows: 80px min-content min-content 70px;
+    grid-template-columns: 250px 1fr;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    height: 100vh;
+    width: 90%;
+    margin: auto;
+    background: var(--site_background_color);
+
+    }
+    header, footer, article, nav {
+        padding: 1.2em;
+        background: var(--site_background_color);
+    }
+    #pageHeader {
+        grid-area: header;
+    }
+    #pageFooter {
+        grid-area: footer;
+        color: var(--text_color);
+        font-family: var(--sans_serif_font);
+        text-align: center;
+    }
+    #mainArticle {
+        grid-area: article;
+    }
+    #nav {
+        grid-area: nav;
+    }
+    #pageComments {
+        grid-area: comments;
+    }
+    .site_title {
+        color: var(--title_color);
+        font-family: var(--serif_font);
+        font-size: 40px;
+        line-height: 80px;
+        text-decoration: none;
+    }
+    .article_title {
+        color: var(--title_color);
+        font-family: var(--serif_font);
+        font-size: 30px;
+        font-weight: 400;
+    }
+    .article_info {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        font-style: italic;
+    }
+    .article_text {
+        color: var(--text_color);
+        font-family: var(--sans_serif_font);
+        font-weight: 400;
+    }
+
+    a.prev_link {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        text-decoration: none;
+        text-align: left;
+        width: 50%;
+        float: left;
+        font-size: 1.5em;
+    }
+/*
+    a.section_link {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        text-decoration: none;
+        text-align: center;
+        width: 33%;
+        float: left;
+        font-size: 1.5em;
+    }
+*/
+    a.normal_link {
+        text-decoration: none;
+        color: var(--title_color);
+        font-family: var(--sans_serif_font);
+    }
+    a.normal_link:hover {
+        font-weight: bold;
+    }
+
+    a.next_link {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        text-decoration: none;
+        text-align: right;
+        width: 50%;
+        float: left;
+        font-size: 1.5em;
+    }
+    a.prev_link:hover, a.section_link:hover, a.next_link:hover {
+        color: var(--title_color);
+        font-weight: bold;
+    }
+
+    .list_link {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .list_link:hover {
+        text-decoration: underline;
+    }
+
+    .tag_link {
+        color: var(--text_color);
+        font-family: var(--sans_serif_font);
+        font-style: italic;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    .tag_link:hover {
+        text-decoration: underline;
+    }
+
+    .nav_link {
+        color: var(--emphasis_color);
+        font-family: var(--sans_serif_font);
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .nav_link:hover {
+        color: var(--title_color);
+        font-weight: bold;
+    }
+    .nav_box {
+        float: left;
+        margin: 10px 20px 10px 0;
+    }
+    .nav_box:hover {
+        float: left;
+        margin: 10px 20px 10px 0;
+        font-weight: bold;
+    }
+
+    img {
+        max-width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+  /* Stack the layout on small devices/viewports. */
+  @media all and (max-width: 900px) {
+    body {
+      grid-template-areas:
+        "header"
+        "nav"
+        "article"
+        "comments"
+        "footer";
+      grid-template-rows: 80px 1fr 1fr 1fr 70px;
+      grid-template-columns: 1fr;
+   }
+
+}
+
+

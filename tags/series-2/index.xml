@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series 2 on Kage</title>
+    <link>https://kage.xyz/tags/series-2/</link>
+    <description>Recent content in Series 2 on Kage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kage.xyz/tags/series-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Etiam tincidunt</title>
+      <link>https://kage.xyz/short_stories/short_006/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/short_stories/short_006/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac tincidunt lectus. Etiam eleifend tortor mauris, eget eleifend urna efficitur eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Sed facilisis pretium ipsum, id porttitor metus commodo sed. Aliquam sed magna commodo odio luctus tincidunt. Donec convallis ex in felis aliquam fermentum. Maecenas et ligula tellus. Nulla ut condimentum nunc. Vestibulum malesuada porta libero, id lobortis massa auctor bibendum.</description>
+    </item>
+    
+    <item>
+      <title>Praesent condimentum</title>
+      <link>https://kage.xyz/short_stories/short_002/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/short_stories/short_002/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac tincidunt lectus. Etiam eleifend tortor mauris, eget eleifend urna efficitur eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hac habitasse platea dictumst. Sed facilisis pretium ipsum, id porttitor metus commodo sed. Aliquam sed magna commodo odio luctus tincidunt. Donec convallis ex in felis aliquam fermentum. Maecenas et ligula tellus. Nulla ut condimentum nunc. Vestibulum malesuada porta libero, id lobortis massa auctor bibendum.</description>
+    </item>
+    
+  </channel>
+</rss>

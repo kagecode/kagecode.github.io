@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Kage</title>
+    <link>https://kage.xyz/tags/tag1/</link>
+    <description>Recent content in Tag1 on Kage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kage.xyz/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post 5</title>
+      <link>https://kage.xyz/post_5/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/post_5/</guid>
+      <description>Sed lorem leo, tristique in sem viverra, facilisis condimentum nisl. Maecenas ullamcorper molestie volutpat. Donec eget ultricies sapien. Vivamus at sapien elit. Morbi viverra turpis aliquet, fringilla sapien eget, efficitur augue. Vestibulum euismod ultrices magna ac vehicula. In porta tincidunt leo, eu malesuada mauris facilisis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus sagittis id tellus vel rhoncus. Proin ut pharetra mi. Nullam ultrices, erat ac gravida fermentum, tortor mauris facilisis velit, tempor convallis dolor diam nec sem.</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://kage.xyz/post_1/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage.xyz/post_1/</guid>
+      <description>Sed lorem leo, tristique in sem viverra, facilisis condimentum nisl. Maecenas ullamcorper molestie volutpat. Donec eget ultricies sapien. Vivamus at sapien elit. Morbi viverra turpis aliquet, fringilla sapien eget, efficitur augue. Vestibulum euismod ultrices magna ac vehicula. In porta tincidunt leo, eu malesuada mauris facilisis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus sagittis id tellus vel rhoncus. Proin ut pharetra mi. Nullam ultrices, erat ac gravida fermentum, tortor mauris facilisis velit, tempor convallis dolor diam nec sem.</description>
+    </item>
+    
+  </channel>
+</rss>

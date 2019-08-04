@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Girl in the Storm on Kage</title>
+    <link>https://kage.xyz/books/the_girl_in_the_storm/</link>
+    <description>Recent content in The Girl in the Storm on Kage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2019 06:54:15 -0300</lastBuildDate>
+    
+	<atom:link href="https://kage.xyz/books/the_girl_in_the_storm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prologue</title>
+      <link>https://kage.xyz/books/the_girl_in_the_storm/the_girl_in_the_storm_000/</link>
+      <pubDate>Fri, 19 Jul 2019 06:54:15 -0300</pubDate>
+      
+      <guid>https://kage.xyz/books/the_girl_in_the_storm/the_girl_in_the_storm_000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
