@@ -18,91 +18,6 @@
   </url>
   
   <url>
-    <loc>https://kage.xyz/webcomics/webcomic_006/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_006/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/webcomics/webcomic_005/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/post_5/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_005/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/webcomics/webcomic_004/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_004/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/post_4/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/webcomics/webcomic_003/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/post_3/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_003/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/webcomics/webcomic_002/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/post_2/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_002/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/webcomics/webcomic_001/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/short_stories/short_001/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/post_1/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kage.xyz/2017-11-07_nanowrimo_day_006/</loc>
     <lastmod>2017-11-07T10:25:00-03:00</lastmod>
   </url>
@@ -154,7 +69,7 @@
   
   <url>
     <loc>https://kage.xyz/blog/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-07T10:25:00-03:00</lastmod>
   </url>
   
   <url>
@@ -166,26 +81,8 @@
   </url>
   
   <url>
-    <loc>https://kage.xyz/tags/genre-3/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/genre-a/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/genre-b/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/genre-c/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>https://kage.xyz/tags/drawing/</loc>
+    <lastmod>2017-09-12T11:26:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,61 +97,18 @@
   </url>
   
   <url>
-    <loc>https://kage.xyz/tags/series-1/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/series-2/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/series-3/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+    <loc>https://kage.xyz/tags/nanowrimo/</loc>
+    <lastmod>2017-11-07T10:25:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kage.xyz/short_stories/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/tag1/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/tag2/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/tag3/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/tag4/</loc>
-    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kage.xyz/tags/tag5/</loc>
-    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kage.xyz/tags/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-12T11:26:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -269,8 +123,19 @@
   </url>
   
   <url>
+    <loc>https://kage.xyz/tags/theblackcat/</loc>
+    <lastmod>2017-10-30T22:29:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kage.xyz/webcomics/</loc>
-    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kage.xyz/tags/writing/</loc>
+    <lastmod>2017-11-07T10:25:00-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

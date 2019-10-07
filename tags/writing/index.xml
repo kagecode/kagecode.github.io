@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Kage</title>
-    <link>https://kage.xyz/blog/</link>
-    <description>Recent content in Blog on Kage</description>
+    <title>Writing on Kage</title>
+    <link>https://kage.xyz/tags/writing/</link>
+    <description>Recent content in Writing on Kage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Nov 2017 10:25:00 -0300</lastBuildDate>
     
-	<atom:link href="https://kage.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kage.xyz/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -101,18 +101,6 @@ This is the synopsis of what I am thinking about writing.</description>
       <guid>https://kage.xyz/2017-10-28_nanowrimo/</guid>
       <description>This year I have decided to participate on NaNoWriMo (in NaNoWriMo?). For those of you that don&amp;rsquo;t know, NaNoWriMo is a sort of &amp;hellip; contest? The objective is to write a complete novel, 50000 words or more, during the month of November. Everybody that is able to do so is considered a winner. You can find their Wikipedia page HERE and their website HERE.
 Fifty thousand words, thirty days, 1667 words per day.</description>
-    </item>
-    
-    <item>
-      <title>First Post!</title>
-      <link>https://kage.xyz/2017-09-12_first_post/</link>
-      <pubDate>Tue, 12 Sep 2017 11:26:00 -0300</pubDate>
-      
-      <guid>https://kage.xyz/2017-09-12_first_post/</guid>
-      <description>I am Kage, nice to meet you!
-I have been drawing for some years now but I have stopped advancing&amp;hellip; That&amp;rsquo;s probably because I practice very little&amp;hellip;
-In order to fix this situation and finally be able to claim my place as &amp;ldquo;Kage, the great&amp;rdquo; I have decided to go back to the basics.
-For now I am doing the exercises in the book Drawing for the Absolute Begginer by Mark and Mary Willenbrink.</description>
     </item>
     
   </channel>
